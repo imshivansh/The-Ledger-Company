@@ -1,8 +1,8 @@
+# This is a GeekTrust Challenge Project
 
-# Pre-requisites
-* Java 1.8/1.11/1.15
-* Gradle 6
-
+1. Ledger Company is a Broker that helps Banks to disperse loans to borrowers.
+2. Borrower can take the loan from the bank,make the EMI payments, and can fetch the remaining Balance.
+3. Banks can disperse the Loan and receive Payment against it.
 # How to run the code
 
 We have provided scripts to execute the code. 
